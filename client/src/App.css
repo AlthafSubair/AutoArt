@@ -1,0 +1,11 @@
+@import url('./font.css');
+
+.font-chiller{
+    font-family: 'Chiller', cursive;
+}
+.font-showcardg{
+    font-family: 'Showcard Gothic', cursive;
+}
+.font-harlowsi{
+    font-family: 'Harlow Solid Italic', cursive; 
+}

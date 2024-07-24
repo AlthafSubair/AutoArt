@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Chiller';
+    src: url('../src/assets/fonts/CHILLER.TTF')
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'Showcard Gothic';
+    src: url('../src/assets/fonts/showg.ttf')
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'Harlow Solid Italic';
+    src: url('../src/assets/fonts/HARLOWSI.TTF')
+    format('truetype');
+}
